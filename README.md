@@ -15,7 +15,7 @@
 			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/mailIcone.png" class="imgMail">
 			<p><a href="mailto:biretlorry@rocketmail.com" title="Mon adresse mail" class="	mail">biretlorry@rocketmail.com</a></p><br>
 
-			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/telIcone.png" class="imgTel">
+			<img src="https://github.com\lobi07\lobi07.github.io\blob\master\telIcone.png" class="imgTel">
 			<p class="tel">(+687)80.02.88</p>	
 
 			<h1 class ="titre">Curriculum Vitae</h1>
