@@ -1,4 +1,4 @@
-
+<!Doctype html>
 <html lang="fr">
 	<head>
 		<title>Curriculum_Vitae</title>
@@ -11,11 +11,11 @@
 
 	<header>
 		<div class="bandeau">
-			<img src="C:\Users\utilisateur\Desktop\CV_Html\visage.jpg" class="photo">
-			<img src="C:\Users\utilisateur\Desktop\CV_Html\mailIcone.png" class="imgMail">
+			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/mailIcone.png" class="photo">
+			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/mailIcone.png" class="imgMail">
 			<p><a href="mailto:biretlorry@rocketmail.com" title="Mon adresse mail" class="	mail">biretlorry@rocketmail.com</a></p><br>
 
-			<img src="C:\Users\utilisateur\Desktop\CV_Html\telIcone.png" class="imgTel">
+			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/telIcone.png" class="imgTel">
 			<p class="tel">(+687)80.02.88</p>	
 
 			<h1 class ="titre">Curriculum Vitae</h1>
