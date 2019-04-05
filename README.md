@@ -11,8 +11,8 @@
 	</head>
 	<header>
 		<div class="bandeau">
-			<img src="C:\Users\utilisateur\Desktop\CV_Html\visage.jpg" class="photo">
-			<img src="C:\Users\utilisateur\Desktop\CV_Html\mailIcone.png" class="imgMail">
+			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/visage.jpg?raw=true" class="photo">
+			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/mailIcone.png?raw=true" class="imgMail">
 			<p><a href="" title="Mon adresse mail" class="mail">biretlorry@rocketmail.com</a></p><br>
 
 			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/mailIcone.png?raw=true" class="imgTel">
