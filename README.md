@@ -1,4 +1,4 @@
-<!Doctype html>
+
 <html lang="fr">
 	<head>
 		<title>Curriculum_Vitae</title>
@@ -89,5 +89,5 @@
 	</div>
 
 	</body>
-	</center>
+
 </html>
