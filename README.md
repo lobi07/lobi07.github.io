@@ -1,4 +1,4 @@
-
+<!Doctype html>
 <html lang="fr">
 	<head>
 		<title>Curriculum_Vitae</title>
@@ -15,7 +15,7 @@
 			<img src="C:\Users\utilisateur\Desktop\CV_Html\mailIcone.png" class="imgMail">
 			<p><a href="" title="Mon adresse mail" class="mail">biretlorry@rocketmail.com</a></p><br>
 
-			<img src="C:\Users\utilisateur\Desktop\CV_Html\telIcone.png" class="imgTel">
+			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/mailIcone.png?raw=true" class="imgTel">
 			<p class="tel">(+687)80.02.88</p>	
 
 			<h1 class ="titre">Curriculum Vitae</h1>
@@ -89,5 +89,5 @@
 	</div>
 
 	</body>
-
+	
 </html>
