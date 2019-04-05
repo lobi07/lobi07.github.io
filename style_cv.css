@@ -1,11 +1,7 @@
 body{
 	font-family: Calibri;
-	display:block;
-	margin-right: auto;
-	
-
-	
-	
+	width: 50%;
+    margin: auto;
 }
 
 h1{
@@ -99,8 +95,8 @@ h2{
 	display: block;
 	border-style:solid;
 	width: 250px;
-	margin-top: -694px;
-	height: 688px;	
+	margin-top: -750px;
+	height: 744px;	
 }
 
 
