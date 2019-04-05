@@ -19,7 +19,7 @@ h2{
 
 
 .photo{
-	max-width: 130px;
+	width: 130px;
 	float:right;
 	display: block;
 	margin-right: 30px;
