@@ -7,15 +7,15 @@
 		<meta charset="utf-8">
 		<link href= "style_cv.css" rel="stylesheet">
 
-	</head>
 
+	</head>
 	<header>
 		<div class="bandeau">
-			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/mailIcone.png" class="photo">
-			<img src="https://github.com/lobi07/lobi07.github.io/blob/master/mailIcone.png" class="imgMail">
-			<p><a href="mailto:biretlorry@rocketmail.com" title="Mon adresse mail" class="	mail">biretlorry@rocketmail.com</a></p><br>
+			<img src="C:\Users\utilisateur\Desktop\CV_Html\visage.jpg" class="photo">
+			<img src="C:\Users\utilisateur\Desktop\CV_Html\mailIcone.png" class="imgMail">
+			<p><a href="" title="Mon adresse mail" class="mail">biretlorry@rocketmail.com</a></p><br>
 
-			<img src="https://github.com\lobi07\lobi07.github.io\blob\master\telIcone.png" class="imgTel">
+			<img src="C:\Users\utilisateur\Desktop\CV_Html\telIcone.png" class="imgTel">
 			<p class="tel">(+687)80.02.88</p>	
 
 			<h1 class ="titre">Curriculum Vitae</h1>
@@ -27,6 +27,7 @@
 	<!-- Corp-->
 
 	<body>
+		
 	
 		
 
@@ -46,6 +47,8 @@
 
 		<h2 class="exp-pro"><u>Expérience Professionelles</u>:</h2>
 		<ul class="exp-pro_list">
+			<li><strong>Aide Magasinier</strong>(Mont-Dore (8 mars - 22 mars 2019) (CDD).<br>
+			<u>Objectifs</u>:ré agencer tout le stock de pneu de Calebam.</li><br>
 			<li><strong>Equipier au McDonald</strong>(Mont-Dore (3 septembre - 3 novembre 2018) (CDD).<br>
 			<u>Objectifs</u>:Préparation des produits McDonald, tenue des stocks.</li><br>
 			<li><strong>Assistant Technicien</strong>(OPT Nouméa) (4 décembre - 30 décembre 2017) (Job d’été).<br>
@@ -67,6 +70,7 @@
 			<li>SQL</li>
 			<li>HTML/CSS</li>
 			<li>Suite Microsoft</li>
+			<li>GitHub</li>
 		</ul>
 		<h2 class="qualités"><u>Qualités</u></h2>
 		<ul>
@@ -83,5 +87,7 @@
 			<li>Mécanique auto/moto/vélo</li>
 		</ul>
 	</div>
+
 	</body>
+	</center>
 </html>
