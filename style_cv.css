@@ -5,25 +5,25 @@ body{
 }
 
 h1{
-	color: yellow;
+	color: #2ecc71;
 	float: right;
 	bottom: 105px;
-	right: 100px;
+	right: 150px;
 }
 
 h2{
-	color: yellow;
+	color: #2ecc71;
 	font-style: italic;
 	font-family: Calibri;
 }
 
 
 .photo{
-	width: 130px;
+	width: 100px;
 	float:right;
 	display: block;
 	margin-right: 30px;
-	margin-top: -7px;
+	margin-top: 0px;
 
 }
 
@@ -95,8 +95,8 @@ h2{
 	display: block;
 	border-style:solid;
 	width: 250px;
-	margin-top: -750px;
-	height: 744px;	
+	margin-top: -650px;
+	height: 644px;
 }
 
 
